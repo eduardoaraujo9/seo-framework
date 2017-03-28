@@ -1,0 +1,2 @@
+# seo-framework
+Framework SEO
